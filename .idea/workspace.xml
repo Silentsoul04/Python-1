@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YTEju88Ik41kblcRjMfR3Yrrat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hm_01_第一个面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_08_面向对象基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_08_面向对象基础/hm_01_第一个面向对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_01_第一个面向对象" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="" />
+      <created>1582958323423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582958323423</updated>
+      <workItem from="1582958326395" duration="226000" />
+      <workItem from="1582958623128" duration="675000" />
+      <workItem from="1582959469106" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582959310487">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959310487" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1582959426019">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426019" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1582959426018">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1582959426018">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1582959426018">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
+    <state x="341" y="139" key="SettingsEditor" timestamp="1582959750858">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="341" y="139" key="SettingsEditor/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959750858" />
+    <state x="551" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1582959471919">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="551" y="351" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959471919" />
+    <state x="2310" y="386" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.956@1680.23.1920.1057" timestamp="1582958329218" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$hm_01_.coverage" NAME="hm_01_第一个面向对象 Coverage Results" MODIFIED="1582959316496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_08_面向对象基础" />
+  </component>
+</project>
