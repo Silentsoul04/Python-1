@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="">
+    <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="2020-0614-firstchange">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,16 +31,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YTEju88Ik41kblcRjMfR3Yrrat" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="hm_01_第一个面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -53,18 +74,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,43 +88,62 @@
       <workItem from="1582958623128" duration="675000" />
       <workItem from="1582959469106" duration="640000" />
       <workItem from="1582978196098" duration="9000" />
+      <workItem from="1592076425380" duration="490000" />
     </task>
+    <task id="LOCAL-00001" summary="2020-0614-firstchange">
+      <created>1592076551030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592076551030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2020-0614-firstchange" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-0614-firstchange" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582959310487">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592076915098">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959310487" />
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1582959426019">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076915098" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592076915098">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426019" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076915098" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592076915098">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076915098" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592076915098">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076915098" />
+    <state x="4301" y="164" key="SettingsEditor" timestamp="1592076914381">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state x="341" y="139" key="SettingsEditor" timestamp="1582959750858">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="4301" y="164" key="SettingsEditor/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076914381" />
+    <state x="4593" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592076829116">
+      <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="341" y="139" key="SettingsEditor/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959750858" />
-    <state x="551" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1582978202622">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="551" y="351" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959471919" />
-    <state x="2310" y="386" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.956@1680.23.1920.1057" timestamp="1582958329218" />
-    <state x="551" y="376" key="com.intellij.ide.util.TipDialog/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1582978202622" />
+    <state x="4593" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592076829116" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$hm_01_.coverage" NAME="hm_01_第一个面向对象 Coverage Results" MODIFIED="1592076496685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_08_面向对象基础" />
