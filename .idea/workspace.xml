@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_10_多继承的使用注意事项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_11_多态案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_12_类属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_13_属性获取机制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_14_使用对象名访问类属性的问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_15_类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_16_静态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_17_方法综合案例.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,11 +17,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YTEju88Ik41kblcRjMfR3Yrrat" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +39,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
-    <configuration name="hm_01_第一个面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hm_17_方法综合案例">
+    <configuration name="hm_13_属性获取机制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -33,12 +50,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_08_面向对象基础" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_09_面向对象特性" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_08_面向对象基础/hm_01_第一个面向对象.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_面向对象特性/hm_13_属性获取机制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_14_使用对象名访问类属性的问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_09_面向对象特性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_面向对象特性/hm_14_使用对象名访问类属性的问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_15_类方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_09_面向对象特性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_面向对象特性/hm_15_类方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_16_静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_09_面向对象特性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_面向对象特性/hm_16_静态方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_17_方法综合案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_09_面向对象特性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_面向对象特性/hm_17_方法综合案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_01_第一个面向对象" />
+        <item itemvalue="Python.hm_17_方法综合案例" />
+        <item itemvalue="Python.hm_16_静态方法" />
+        <item itemvalue="Python.hm_15_类方法" />
+        <item itemvalue="Python.hm_14_使用对象名访问类属性的问题" />
+        <item itemvalue="Python.hm_13_属性获取机制" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +188,19 @@
       <workItem from="1582958623128" duration="675000" />
       <workItem from="1582959469106" duration="640000" />
       <workItem from="1582978196098" duration="9000" />
+      <workItem from="1583158880487" duration="1627000" />
+      <workItem from="1583821520430" duration="8235000" />
+      <workItem from="1584061753187" duration="3130000" />
+      <workItem from="1584079705565" duration="13501000" />
+      <workItem from="1584510263359" duration="5896000" />
+      <workItem from="1585059274740" duration="4077000" />
+      <workItem from="1585815534407" duration="308000" />
+      <workItem from="1587966550158" duration="838000" />
+      <workItem from="1588126405435" duration="1306000" />
+      <workItem from="1588572797543" duration="1039000" />
+      <workItem from="1588839767550" duration="3000" />
+      <workItem from="1589977556660" duration="1274000" />
+      <workItem from="1590023720893" duration="86000" />
     </task>
     <servers />
   </component>
@@ -90,25 +212,74 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959310487" />
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1582959426019">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom" timestamp="1585454411492">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583829316100" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585454411492" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.937@0.23.1680.937" timestamp="1584066104541" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.941@0.23.1680.941" timestamp="1584066773033" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.941@1680.23.1920.1057" timestamp="1585058984053" />
+    <state width="1638" height="251" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584078873402" />
     <state width="1638" height="256" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426019" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="259" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1583646679194" />
+    <state width="1638" height="259" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1583159816562" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1584243535236" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/1680.23.1920.970/0.23.1680.1027@0.23.1680.1027" timestamp="1583978152174" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/1680.23.1920.975/0.23.1680.1027@0.23.1680.1027" timestamp="1583846218092" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/1680.23.1920.975/0.23.1680.945@0.23.1680.945" timestamp="1583842612800" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center" timestamp="1585454411491">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1583829316098" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585454411491" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.937@0.23.1680.937" timestamp="1584066104540" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.941@0.23.1680.941" timestamp="1584066773032" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.941@1680.23.1920.1057" timestamp="1585058984051" />
+    <state width="1638" height="251" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584078873401" />
     <state width="1638" height="256" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="259" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1583646679193" />
+    <state width="1638" height="259" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1583159816561" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1584243535235" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/1680.23.1920.970/0.23.1680.1027@0.23.1680.1027" timestamp="1583978152173" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/1680.23.1920.975/0.23.1680.1027@0.23.1680.1027" timestamp="1583846218091" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center/1680.23.1920.975/0.23.1680.945@0.23.1680.945" timestamp="1583842612798" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left" timestamp="1585454411491">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1583829316098" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585454411491" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.937@0.23.1680.937" timestamp="1584066104539" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.941@0.23.1680.941" timestamp="1584066773031" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.941@1680.23.1920.1057" timestamp="1585058984051" />
+    <state width="1638" height="251" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584078873400" />
     <state width="1638" height="256" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1582959426018">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="259" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1583646679193" />
+    <state width="1638" height="259" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1583159816561" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1584243535234" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/1680.23.1920.970/0.23.1680.1027@0.23.1680.1027" timestamp="1583978152173" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/1680.23.1920.975/0.23.1680.1027@0.23.1680.1027" timestamp="1583846218090" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left/1680.23.1920.975/0.23.1680.945@0.23.1680.945" timestamp="1583842612798" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right" timestamp="1585454411492">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1583829316099" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585454411492" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.937@0.23.1680.937" timestamp="1584066104540" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.941@0.23.1680.941" timestamp="1584066773032" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.941@1680.23.1920.1057" timestamp="1585058984052" />
+    <state width="1638" height="251" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584078873401" />
     <state width="1638" height="256" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959426018" />
-    <state x="341" y="139" key="SettingsEditor" timestamp="1582959750858">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1638" height="259" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1583646679194" />
+    <state width="1638" height="259" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1583159816562" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1584243535236" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/1680.23.1920.970/0.23.1680.1027@0.23.1680.1027" timestamp="1583978152173" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/1680.23.1920.975/0.23.1680.1027@0.23.1680.1027" timestamp="1583846218091" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right/1680.23.1920.975/0.23.1680.945@0.23.1680.945" timestamp="1583842612799" />
+    <state x="341" y="137" key="SettingsEditor" timestamp="1584065063567">
+      <screen x="0" y="23" width="1680" height="937" />
     </state>
+    <state x="341" y="137" key="SettingsEditor/1680.23.1920.1057/0.23.1680.937@0.23.1680.937" timestamp="1584065063567" />
     <state x="341" y="139" key="SettingsEditor/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959750858" />
     <state x="551" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1582978202622">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -116,8 +287,24 @@
     <state x="551" y="351" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1582959471919" />
     <state x="2310" y="386" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.956@1680.23.1920.1057" timestamp="1582958329218" />
     <state x="551" y="376" key="com.intellij.ide.util.TipDialog/1680.23.1920.967/0.23.1680.1027@0.23.1680.1027" timestamp="1582978202622" />
+    <state x="1805" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585058773736">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1805" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585058773736" />
+    <state x="1666" y="241" key="search.everywhere.popup" timestamp="1585058769208">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1666" y="241" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1585058769208" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$hm_17_.coverage" NAME="hm_17_方法综合案例 Coverage Results" MODIFIED="1585375495645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_12_.coverage" NAME="hm_12_类属性 Coverage Results" MODIFIED="1584066532748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_13_.coverage" NAME="hm_13_属性获取机制 Coverage Results" MODIFIED="1584451364990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_16_.coverage" NAME="hm_16_静态方法 Coverage Results" MODIFIED="1584500141829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
     <SUITE FILE_PATH="coverage/Python$hm_01_.coverage" NAME="hm_01_第一个面向对象 Coverage Results" MODIFIED="1582959316496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_08_面向对象基础" />
+    <SUITE FILE_PATH="coverage/Python$hm_10_.coverage" NAME="hm_10_多继承的使用注意事项 Coverage Results" MODIFIED="1583842612786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_15_.coverage" NAME="hm_15_类方法 Coverage Results" MODIFIED="1584494094122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_14_.coverage" NAME="hm_14_使用对象名访问类属性的问题 Coverage Results" MODIFIED="1584451638233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
+    <SUITE FILE_PATH="coverage/Python$hm_11_.coverage" NAME="hm_11_多态案例 Coverage Results" MODIFIED="1583846218081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_09_面向对象特性" />
   </component>
 </project>
