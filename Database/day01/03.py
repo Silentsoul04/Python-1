@@ -24,6 +24,8 @@ lazy_cat.name = "大懒猫"
 lazy_cat.eat()
 lazy_cat.drink()
 
+
+
 print(lazy_cat)
 
 lazy_cat2 = lazy_cat
