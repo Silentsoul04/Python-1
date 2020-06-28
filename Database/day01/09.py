@@ -10,19 +10,25 @@ class Person:
 
 
     def eat(self):
-        self.weight += 1
         print("%s 是吃货，吃完这顿再减肥" % self.name)
 
+        self.weight += 1
 
     def run(self):
-        self.weight -= 0.5
         print("%s 爱跑步，跑步锻炼身体" % self.name)
+
+        self.weight -= 0.5
 
 
 
 xiaoming = Person("小明",75.0)
 
 xiaoming.run()
+
+xiaoming.eat()
+
+print(xiaoming)
+
 xiaoming.eat()
 
 print(xiaoming)

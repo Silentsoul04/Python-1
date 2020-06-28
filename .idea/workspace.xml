@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_10_多继承的使用注意事项.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_11_多态案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_12_类属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_13_属性获取机制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_14_使用对象名访问类属性的问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_15_类方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_16_静态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_09_面向对象特性/hm_17_方法综合案例.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f918737-d3ce-4fcf-87d3-6a7adb00a7b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,6 +191,7 @@
       <workItem from="1588839767550" duration="3000" />
       <workItem from="1589977556660" duration="1274000" />
       <workItem from="1590023720893" duration="86000" />
+      <workItem from="1592644620692" duration="15000" />
     </task>
     <servers />
   </component>

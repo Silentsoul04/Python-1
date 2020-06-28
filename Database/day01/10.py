@@ -27,4 +27,11 @@ xiaoming.eat()
 
 print(xiaoming)
 
-# 
+# 小美爱跑步
+xiaomei = Person("小美",45.0)
+
+xiaomei.eat()
+xiaomei.run()
+
+print(xiaomei)
+print(xiaoming)
