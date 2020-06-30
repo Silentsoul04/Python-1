@@ -1,13 +1,20 @@
 class HouseItem:
+
     def __init__(self,name,area):
+
         self.name = name
         self.area = area
 
     def __str__(self):
+
         return "[%s] 占地 %.2f " % (self.name,self.area)
 
+
 class House:
+
+    # 只有需要从外部传入的参数，我们才把它定位为形参
     def __init__(self,house_type,area):
+
         self.house_type = house_type
         self.area = area
 
@@ -18,7 +25,7 @@ class House:
         self.item_list = []
 
     def __str__(self):
-        #python能够自动的将一对括号内部的代码连接在一起
+        # Python 能够自动的将一对括号内部的代码连接在一起
         return ("户型: %s\n总面积: %.2f[剩余： %.2f]\n家具:%s" %
                 (self.house_type,self.area,
                  self.free_area,self.item_list))
@@ -38,9 +45,10 @@ print(table)
 
 
 # 2.创建房子对象
-my_home = House("别墅",60)
+my_home = House("两室一厅",60)
 
 my_home.add_item(bed)
 my_home.add_item(chest)
 my_home.add_item(table)
+
 print(my_home)
