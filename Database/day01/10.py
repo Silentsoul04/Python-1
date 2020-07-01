@@ -27,4 +27,3 @@ xiaoming.eat()
 
 print(xiaoming)
 
-# 
