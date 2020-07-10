@@ -38,7 +38,8 @@ class Soldier:
     def fire(self):
 
         # 1.判断士兵是否有枪
-        if self.gun == None:
+        # if self.gun == None:
+        if self.gun is None:
             print("%s 没有枪，我要去拿枪" % self.name)
             return
 
@@ -47,8 +48,9 @@ class Soldier:
 
         # 3.让枪装填子弹
         self.gun.add_bullet(20)
-        # 4.让枪发射子弹
 
+        # 4.让枪发射子弹
+        self.gun.shoot()
 
 # 1. 创建枪对象
 

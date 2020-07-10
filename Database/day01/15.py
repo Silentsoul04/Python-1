@@ -46,6 +46,8 @@ ak47.shoot()
 # 2.创建许三多
 xusanduo = Soldier("许三多")
 
+xusanduo.gun = ak47
+
 print(xusanduo.gun)
 
 
