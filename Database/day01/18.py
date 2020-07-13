@@ -9,6 +9,6 @@ class Women:
 
 Meina = Women("meina")
 
-# print(Meina.__age)
+print(Meina._Women__age)
 
-# Meina.__secret()
+Meina._Women__secret()
