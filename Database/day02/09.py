@@ -7,7 +7,7 @@ class A:
 class B:
 
     def demo(self):
-            print("That's demo method")
+        print("That's demo method")
 
 
 class C(A,B):
