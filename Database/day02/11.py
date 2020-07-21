@@ -4,13 +4,12 @@ class Dog(object):
         self.name = name
 
     def game(self):
-        print("%s Just play simple game" % self.name)
-
+        print("play like a normal dog")
 
 class XiaoTianDog(Dog):
 
     def game(self):
-        print("%s Play in the air" % self.name)
+        print("play at the sky")
 
 class Person(object):
 
@@ -18,13 +17,10 @@ class Person(object):
         self.name = name
 
     def game_with_dog(self,dog):
-
-        print("%s with %s happy play" % (self.name,dog.name))
-
+        print("%s and %s play so happy" % (self.name,dog.name))
         dog.game()
 
-wangcai = Dog("wangcai")
-xiaoming = Person("xiaoming")
+# wangcai = Dog("wangcaicai")
+wangcai = XiaoTianDog("wangcai")
+xiaoming = Person("xiaomingming")
 xiaoming.game_with_dog(wangcai)
-
-
