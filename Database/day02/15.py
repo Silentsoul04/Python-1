@@ -13,7 +13,9 @@ class Tool(object):
         Tool.count += 1
 
 
+
 tool1 = Tool("stick")
 tool2 = Tool("sword")
+
 
 Tool.show_tool_count()
