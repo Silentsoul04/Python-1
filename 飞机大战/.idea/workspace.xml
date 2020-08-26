@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7866a313-2405-4789-9a16-424d05e9bbad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hm_05_绘制英雄图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_06_update方法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_03_创建游戏窗口.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_03_创建游戏窗口.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_04_图像绘制.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_04_图像绘制.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +191,7 @@
       <updated>1598145700093</updated>
       <workItem from="1598145701339" duration="2006000" />
       <workItem from="1598320091618" duration="16989000" />
+      <workItem from="1598406125041" duration="3024000" />
     </task>
     <servers />
   </component>
