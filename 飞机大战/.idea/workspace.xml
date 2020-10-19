@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7866a313-2405-4789-9a16-424d05e9bbad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hm_07_认识游戏循环.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +192,14 @@
       <updated>1598145700093</updated>
       <workItem from="1598145701339" duration="2006000" />
       <workItem from="1598320091618" duration="16989000" />
-      <workItem from="1598406125041" duration="3024000" />
+      <workItem from="1598406125041" duration="3689000" />
+      <workItem from="1599528842202" duration="998000" />
+      <workItem from="1599959305491" duration="665000" />
+      <workItem from="1600046916807" duration="610000" />
+      <workItem from="1600154079703" duration="3013000" />
+      <workItem from="1600511341868" duration="2000" />
+      <workItem from="1601948756718" duration="9000" />
+      <workItem from="1602036647973" duration="1000" />
     </task>
     <servers />
   </component>
@@ -237,7 +245,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$hm_05_.coverage" NAME="hm_05_绘制英雄图像 Coverage Results" MODIFIED="1598349449938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$hm_06_update.coverage" NAME="hm_06_update方法 Coverage Results" MODIFIED="1598351785405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$hm_06_update.coverage" NAME="hm_06_update方法 Coverage Results" MODIFIED="1600163389795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$hm_04_.coverage" NAME="hm_04_图像绘制 Coverage Results" MODIFIED="1598347806734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$hm_02_Rect.coverage" NAME="hm_02_使用Rect描述英雄 Coverage Results" MODIFIED="1598337052294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$hm_03_.coverage" NAME="hm_03_创建游戏窗口 Coverage Results" MODIFIED="1598347714511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
