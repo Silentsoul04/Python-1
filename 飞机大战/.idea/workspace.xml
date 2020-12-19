@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7866a313-2405-4789-9a16-424d05e9bbad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hm_07_认识游戏循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/飞机大战.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/飞机大战.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +33,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="fbeba557-4072-4a8d-b9cd-3a690241af2b">
+    <option name="files">
+      <option value="hello.ipynb" />
+    </option>
   </component>
   <component name="ProjectId" id="1gTjuk4LIgwOfBjoRHx0J17pahD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -200,6 +207,7 @@
       <workItem from="1600511341868" duration="2000" />
       <workItem from="1601948756718" duration="9000" />
       <workItem from="1602036647973" duration="1000" />
+      <workItem from="1608340224874" duration="1406000" />
     </task>
     <servers />
   </component>
@@ -222,26 +230,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="216" key="GridCell.Tab.0.bottom" timestamp="1598351971655">
+    <state x="0" y="78" key="SettingsEditor" timestamp="1608340279464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598351971655" />
-    <state width="1867" height="216" key="GridCell.Tab.0.center" timestamp="1598351971655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1867" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598351971655" />
-    <state width="1867" height="216" key="GridCell.Tab.0.left" timestamp="1598351971655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1867" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598351971655" />
-    <state width="1867" height="216" key="GridCell.Tab.0.right" timestamp="1598351971655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1867" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598351971655" />
-    <state x="0" y="78" key="SettingsEditor" timestamp="1598323827627">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598323827627" />
+    <state x="0" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608340279464" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$hm_05_.coverage" NAME="hm_05_绘制英雄图像 Coverage Results" MODIFIED="1598349449938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
